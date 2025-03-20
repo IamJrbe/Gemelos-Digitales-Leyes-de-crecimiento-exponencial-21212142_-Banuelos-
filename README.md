@@ -22,5 +22,8 @@ Posgrado en Ciencias de la Ingeniería [PCI] y Departamento de Ingeniería Eléc
 
 ## Lecturas
 [1] Paul. A. Valle, Syllabus de Biomatemáticas para la asignatura de Gemelos Digitales, Tecnológico Nacional de México/IT Tijuana, Tijuana, B.C., México, 2025. Permalink: https://www.dropbox.com/s/6yf9afxzih9y458/Biomatematicas.pdf
-
-[2] González‐Ayón, M. A., Sañudo‐Barajas, J. A., Picos‐Corrales, L. A., & Licea‐Claverie, A. (2015). PNVCL‐PEGMA nanohydrogels with tailored transition temperature for controlled delivery of 5‐fluorouracil. Journal of Polymer Science Part A: Polymer Chemistry, 53(22), 2662-2672. doi: https://doi.org/10.1002/pola.27766
+[2] A. Garfinkel, J. Shevtsov, and Y. Guo, Modeling Life: The Mathematics of Biological Systems, 1st ed. Cham, Switzerland: Springer, 2017, ch. 1, sec. 1.1–1.3, pp. 1–18.
+[3] F. L. Biafore and C. E. D’Attellis, "Exact Linearisation and Control of a HIV-1 Predator-Prey Model," in Proceedings of the 27th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Shanghai, China, Sep. 2005, pp. 2367-2370.
+[5] J. D. Murray, Mathematical Biology: I. An Introduction, 3rd ed. New York, NY, USA: Springer, 2002, ch. 2, pp. 25–60.
+[5] L. Edelstein-Keshet, Mathematical Models in Biology, Philadelphia, PA, USA: SIAM, 2005, ch. 3, sec. 3.1–3.4, pp. 75–110.
+[6] H. G. Othmer, F. R. Adler, and M. A. Lewis, Applied Mathematical Models in Human Physiology, Philadelphia, PA, USA: SIAM, 2007, ch. 5, pp. 150–185.
